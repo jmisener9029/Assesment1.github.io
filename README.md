@@ -1,5 +1,6 @@
-<!DOCTYPE html>
-## Welcome to my RMIT assesment hosting
+
+## <hi id="top">Welcome to my RMIT assesment hosting</h1>
+
 
 <div id="toc_container">
 <p class="toc_title">Contents</p>
@@ -16,7 +17,7 @@
 <h2 id="First_Point_Header">Personal Information</h2>
 <p>Joshua Misener<br />
 Student Number: s3799261<br />
-jmisener@outlook.com <br />
+<a href="mailto:jmisener@outlook.com">jmisener@outlook.com<a/> <br />
 Australian by birth, Higher School Certificate, speaks English, I spend a lot of time training and honing my martial arts.
 </p>
 
@@ -25,7 +26,9 @@ Australian by birth, Higher School Certificate, speaks English, I spend a lot of
 I expect to learn the basic fundamentals of IT that can be used to segway into something greater later on.</p>
 
 <h2 id="Third_Point_Header">Ideal Job</h2>
-<p>https://www.seek.com.au/job/39261970?searchrequesttoken=549b494c-39a0-494f-969b-285172b5c158&type=standard</p>
+<p>
+<a href="https://www.seek.com.au/job/39261970?searchrequesttoken=549b494c-39a0-494f-969b-285172b5c158&type=standard" target="_blank"> Seek.com Job AD</a> (opens in new window)
+</p>
 <img src="seekscreenshot.png" alt="Seek job sceenshot" title="Seek job screenshot"/><br />
 <p>
 <ul>
@@ -87,7 +90,7 @@ The Australian forces in Afghanistan have suffered 41 fatalities. 261 soldiers h
 <p>
 <ul>
 <li>
-Using raspberry pi zero units, which are smaller than the other variants being 65x30 mm in size making it ideal to mount in a small grenade sized object and then compounding it with a software such as Lost android, (https://play.google.com/store/apps/details?id=com.androidlost) activating mobile phones in a controlled area e.g. one or ½ grid squares (1km2) specifically for D-files (A choke point on a road or on terrain) where IEDs are commonly planted. The device is designed to surpass the currently used F3 Mine Detector, whose slow speed of clearing can lead to units rushing to meet timings and not doing a full clearance leading to casualties.</li><br />
+Using raspberry pi zero units, which are smaller than the other variants being 65x30 mm in size making it ideal to mount in a small grenade sized object and then compounding it with a software such as Lost android, <a href="https://play.google.com/store/apps/details?id=com.androidlost" target="_blank"> Android lost GooglePlayStore</a> (opens in new window) activating mobile phones in a controlled area e.g. one or ½ grid squares (1km2) specifically for D-files (A choke point on a road or on terrain) where IEDs are commonly planted. The device is designed to surpass the currently used F3 Mine Detector, whose slow speed of clearing can lead to units rushing to meet timings and not doing a full clearance leading to casualties.</li><br />
 <br />
 <li>The device would ping mobile phones and switch them on to be detected by electronic warfare teams to then be marked and either defused or controlled detonated.</li>
 <br />
@@ -122,7 +125,7 @@ CSI camera connector (v1.3 only)<br />
 <li>
 
 <ins>Open Source Software</ins><br />
-Lost Android (https://play.google.com/store/apps/details?id=com.androidlost )<br />
+Lost Android <a href="https://play.google.com/store/apps/details?id=com.androidlost" target="_blank"> Android lost GooglePlayStore</a> (opens in new window)<br />
 </li>
 <li>
 BlurSpy
@@ -192,8 +195,10 @@ Newatlas.com. (2019). World's smallest TV antenna gets the job done. [online] Av
 </ul>
 </p>
 
+<p><a href="#top">Back to top</a></p>
+<p>
 ### Link to Base Document
-
+</p>
 <p>
   <ul>
     <li><a href="Assesment_task_1_IT.docx">Assesment 1</a></li>
