@@ -17,8 +17,8 @@
 <h2 id="First_Point_Header">Personal Information</h2>
 <p>Joshua Misener<br />
 Student Number: s3799261<br />
-<a href="mailto:jmisener@outlook.com">jmisener@outlook.com<a/> <br />
-Australian by birth, Higher School Certificate, speaks English, I spend a lot of time training and honing my martial arts.
+<a href="mailto:jmisener@outlook.com">jmisener@outlook.com<a/><br />
+  Australian by birth, Higher School Certificate, speaks English, I spend a lot of time training and honing my martial arts.
 </p>
 
 <h2 id="Second_Point_Header">Interest in IT</h2>
