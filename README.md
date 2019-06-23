@@ -22,7 +22,7 @@ jmisener@outlook.com
 </p>
 
 <p>
-<img src="joshmisener.jpg" alt="Josh_Misener" width="300" height="400" /> Australian by birth, Higher School Certificate, speaks English, I spend a lot of time training and honing my martial arts.</p>
+<img src="joshmisener.jpg" alt="Josh_Misener" width="250" height="350" /> Australian by birth, Higher School Certificate, speaks English, I spend a lot of time training and honing my martial arts.</p>
 <br />
 <h2 id="Second_Point_Header">Interest in IT</h2>
 <p>In short, my interest in IT stems from when I played video games as a child; I chose to come to RMIT because it is a well regarded University with a good online program. 
