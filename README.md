@@ -246,6 +246,4 @@ Rmit.edu.au. (2019). Why choose RMIT? - RMIT University. [online] Available at: 
     </ul>
     </p>
     </html>
-    
-    body {background-image: url("backroundimage.jpg");}
-
+ 
