@@ -1,6 +1,9 @@
 <html>
 <h1 id="top">Welcome to my RMIT assesment</h1>
 
+body {
+background-image: url("backroundimage.jpg");}
+
 
 <div id="toc_container">
 <p class="toc_title">Contents</p>
