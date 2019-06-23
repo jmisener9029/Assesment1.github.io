@@ -18,12 +18,16 @@
 <p>
 Joshua Misener<br />
 Student Number: s3799261<br />
-<a href="mailto:jmisener@outlook.com">jmisener@outlook.com<a/><br />
 </p>
 <p>
-Australian by birth, Higher School Certificate, speaks English, I spend a lot of time training and honing my martial arts.
+<a href="mailto:jmisener@outlook.com">jmisener@outlook.com<a/>
 </p>
 
+<p>
+<img src="joshmisener.jpg" alt="Josh_Misener" width="100" height="100" align="left" />
+Australian by birth, Higher School Certificate, speaks English, I spend a lot of time training and honing my martial arts.
+</p>
+<br />
 <h2 id="Second_Point_Header">Interest in IT</h2>
 <p>In short, my interest in IT stems from when I played video games as a child; I chose to come to RMIT because it is a well regarded University with a good online program. 
 I expect to learn the basic fundamentals of IT that can be used to segway into something greater later on.</p><br />
