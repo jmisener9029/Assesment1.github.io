@@ -49,6 +49,7 @@ I expect to learn the basic fundamentals of IT that can be used to segway into s
 <p>
 <strong>Reasons why I wanted to study at RMIT</strong>
 <br />
+</p>
 <ul>
 <li>
 I wanted to study at RMIT for three reasons;
@@ -57,7 +58,6 @@ I wanted to study at RMIT for three reasons;
 <li>RMIT is ranked fifth in Australia in universities inder fifty years old.</li>
 <li>RMIT has a five star QS ranking for excellence in higher education.</li>
 </ul>
-</p>
 
 <h2 id="Third_Point_Header">Ideal Job</h2>
 
