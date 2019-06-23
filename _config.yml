@@ -1,5 +1,3 @@
-   
-    body {background-image: url("backroundimage.jpg");}
-
+theme: jekyll-theme-slate
 title: Welcome to my homepage
 description: Josh Misener Student ID s3799261
