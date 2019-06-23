@@ -1,4 +1,5 @@
-<h1 id="top">Welcome to my RMIT assesment hosting</h1>
+<html>
+<h1 id="top">Welcome to my RMIT assesment</h1>
 
 
 <div id="toc_container">
@@ -14,17 +15,49 @@
 </div>
 
 <h2 id="First_Point_Header">Personal Information</h2>
-<p>Joshua Misener<br />
+<p>
+Joshua Misener<br />
 Student Number: s3799261<br />
 <a href="mailto:jmisener@outlook.com">jmisener@outlook.com<a/><br />
-  Australian by birth, Higher School Certificate, speaks English, I spend a lot of time training and honing my martial arts.
+</p>
+<p>
+Australian by birth, Higher School Certificate, speaks English, I spend a lot of time training and honing my martial arts.
 </p>
 
 <h2 id="Second_Point_Header">Interest in IT</h2>
-<p>My interest in IT stems from when I played video games as a child; I chose to come to RMIT because it is a well regarded University with a good online program. 
-I expect to learn the basic fundamentals of IT that can be used to segway into something greater later on.</p>
+<p>In short, my interest in IT stems from when I played video games as a child; I chose to come to RMIT because it is a well regarded University with a good online program. 
+I expect to learn the basic fundamentals of IT that can be used to segway into something greater later on.</p><br />
+<p>
+<d1>
+<dt><strong>You can see what you’re studying</strong></dt>
+<dd>A large part of studying information technology is practical. The ability to get hands on. With that, you can change or adjust things and implement what you’ve learned. Assimilating new information and then applying it is both a strength and a hobby.</dd>
+<br />
+<dt><strong>The ability to choose</strong></dt>
+<dd>The ability to manage and structure your own work schedule is very appealing. The opportunity to work for myself might also present itself. Many information technology professionals have a full-time position at an established company while also running their own business after hours. In this regard I could rapidly increase skill development and greatly reduce skill fade.</dd>
+<br />
+<dt><strong>Earn good money</strong></dt>
+<dd>Working yourself up the ladder can enable me to earn good money. The acquisition of skills and experience over time will gradually increase my ability to earn, especially if I decided to go into a specialist field.  Information technology professionals e.g. software development manager fall under the top ten highest paying jobs in the world.</dd>
+<br />
+<dt><strong>Always in demand</strong></dt>
+<dd>There are many choices when specialising in information technology. As technology progresses the need for information technology professionals will only increase. And the better your skill set the more in demand your expertise will be. With jobs being so scarce, the information technology industry continues to show a promising demand trend. Majoring in information technology will expose you to a lot of opportunities and jobs.</dd>
+</d1>
+</p>
+
+<p>
+<strong>Reasons why I wanted to study at RMIT</strong>
+<br />
+<ul>
+<li>
+I wanted to study at RMIT for three reasons;
+<ul>
+<li>RMIT is the eighth highest university for employment in Australia.</li>
+<li>RMIT is ranked fifth in Australia in universities inder fifty years old.</li>
+<li>RMIT has a five star QS ranking for excellence in higher education.</li>
+</ul>
+</p>
 
 <h2 id="Third_Point_Header">Ideal Job</h2>
+
 <p>
 <a href="https://www.seek.com.au/job/39261970?searchrequesttoken=549b494c-39a0-494f-969b-285172b5c158&type=standard" target="_blank"> Seek.com Job AD</a> (opens in new window)
 </p>
@@ -189,14 +222,19 @@ Sophia, M. and Jackie, L. (2019). How to Turn on Android Microphone Remotely wit
 Wallen, J. (2014). Remotely control your Android via internet or SMS with Android Lost. [online] TechRepublic. Available at: https://www.techrepublic.com/article/remotely-control-your-android-via-internet-or-sms-with-android-lost/ [Accessed 22 Jun. 2019].
 En.wikipedia.org. (2019). Antenna (radio). [online] Available at: https://en.wikipedia.org/wiki/Antenna_(radio) [Accessed 22 Jun. 2019].
 Newatlas.com. (2019). World's smallest TV antenna gets the job done. [online] Available at: https://newatlas.com/worlds-smallest-tv-antenna/42558/ [Accessed 22 Jun. 2019].
-
+</li>
+<li>
+guidance, C. (2019). Top 5 reasons to study information technology - Student Brands. [online] Student Brands. Available at: https://www.studentbrands.co.za/employment/career-guidance/top-5-reasons-study-information-technology/ [Accessed 23 Jun. 2019].
+</li>
+<li>
+Rmit.edu.au. (2019). Why choose RMIT? - RMIT University. [online] Available at: https://www.rmit.edu.au/life-at-rmit/why-choose-rmit [Accessed 23 Jun. 2019].
 </li>
 </ul>
 </p>
 
 <p><a href="#top">Back to top</a></p>
 <p>
-### Link to Base Document
+<h3>Link to Base Document</h3>
 </p>
 <p>
   <ul>
