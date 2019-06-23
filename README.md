@@ -1,4 +1,4 @@
-
+<html>
 <h1 id="top">Welcome to my RMIT assesment</h1>
 
 
@@ -57,6 +57,7 @@ I wanted to study at RMIT for three reasons;
 </p>
 
 <h2 id="Third_Point_Header">Ideal Job</h2>
+
 <p>
 <a href="https://www.seek.com.au/job/39261970?searchrequesttoken=549b494c-39a0-494f-969b-285172b5c158&type=standard" target="_blank"> Seek.com Job AD</a> (opens in new window)
 </p>
@@ -225,12 +226,15 @@ Newatlas.com. (2019). World's smallest TV antenna gets the job done. [online] Av
 <li>
 guidance, C. (2019). Top 5 reasons to study information technology - Student Brands. [online] Student Brands. Available at: https://www.studentbrands.co.za/employment/career-guidance/top-5-reasons-study-information-technology/ [Accessed 23 Jun. 2019].
 </li>
+<li>
+Rmit.edu.au. (2019). Why choose RMIT? - RMIT University. [online] Available at: https://www.rmit.edu.au/life-at-rmit/why-choose-rmit [Accessed 23 Jun. 2019].
+</li>
 </ul>
 </p>
 
 <p><a href="#top">Back to top</a></p>
 <p>
-### Link to Base Document
+<h3>Link to Base Document</h3>
 </p>
 <p>
   <ul>
