@@ -1,5 +1,5 @@
 <html>
-<h1 id="top">Welcome to my RMIT assesment</h1>
+<h1 id="top">Welcome to my RMIT Assesment</h1>
 
 
 
