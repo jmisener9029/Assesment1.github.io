@@ -24,6 +24,7 @@ I expect to learn the basic fundamentals of IT that can be used to segway into s
 
 <h2 id="Third_Point_Header">Ideal Job</h2>
 <p>https://www.seek.com.au/job/39261970?searchrequesttoken=549b494c-39a0-494f-969b-285172b5c158&type=standard</p>
+<img src="seekscreenshot.png" alt="Seek job sceenshot" title="Seek job screenshot"/><br />
 <p>
 <ul>
 <li>A Cloud Architect is a specialist who is responsible for overseeing a company's cloud program. This includes cloud creation, cloud design, management and monitoring. Cloud architects basically oversee the creation and smooth running of a cloud system.</li>
