@@ -2,7 +2,6 @@
 
 
 ### Link to Document
-[Assesment 1](files/path/to/Assesment_task_1_IT.docx "ALT TEXT")
 
 <p>
   <ul>
