@@ -1,7 +1,7 @@
 ## Welcome to my RMIT assesment hosting
 
 
-### Link to Document
+### Link to Skeleton Document
 
 <p>
   <ul>
