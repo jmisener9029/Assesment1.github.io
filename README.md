@@ -1,4 +1,5 @@
-<h1 id="top">Welcome to my RMIT assesment hosting</h1>
+
+<h1 id="top">Welcome to my RMIT assesment</h1>
 
 
 <div id="toc_container">
@@ -14,16 +15,37 @@
 </div>
 
 <h2 id="First_Point_Header">Personal Information</h2>
-<p>Joshua Misener<br />
+<p>
+Joshua Misener<br />
 Student Number: s3799261<br />
 <a href="mailto:jmisener@outlook.com">jmisener@outlook.com<a/><br />
-  Australian by birth, Higher School Certificate, speaks English, I spend a lot of time training and honing my martial arts.
+</p>
+<p>
+Australian by birth, Higher School Certificate, speaks English, I spend a lot of time training and honing my martial arts.
 </p>
 
 <h2 id="Second_Point_Header">Interest in IT</h2>
 <p>My interest in IT stems from when I played video games as a child; I chose to come to RMIT because it is a well regarded University with a good online program. 
-I expect to learn the basic fundamentals of IT that can be used to segway into something greater later on.</p>
+I expect to learn the basic fundamentals of IT that can be used to segway into something greater later on.</p><br />
+<p>
+<d1>
+<dt>Variety of career choices</dt>
+<dd>Information technology is incredibly diverse and it’s not just about fixing computers or laptops. This course will allow you to take your career in a number of different directions. Careers vary from a technical writer, web developer, information technology director, chief technology officer and so much more. IT graduates will also be prepared to specialise in far wider areas of interest. The job market in computing and information technology is growing. These jobs require skill, training and a logical thinking process. Many of these careers are demanding and stressful but most offer a hefty financial reward.</dd>
+<br />
+<dt>You can see what you’re studying</dt>
+<dd>The biggest part of studying information technology is practical. Doing an information technology course, you won’t just learn the theoretical part but also get the opportunity to make things. With that, you can change or adjust things and implement what you’ve learned. Knowledge is important to any career field. It’s sometimes better to see what you’re learning by actually doing it. That way you’ll remember things quicker and longer and become successful in your field.</dd>
+<br />
+<dt>Flexible work style</dt>
+<dd>When you’re looking for a job, your personal preferences count. If you prefer working on your own, there are jobs out there in information technology allowing you to do so. You’ll be able to work according to your own schedules. Being flexible will also lead to better teamwork. For instance, when you have a doctor’s appointment you’ll have enough time to attend it. You’ll also be a more happy and satisfied employee as you’ll feel empowered through being able to structure your work and personal life according to your needs. The opportunity to work for yourself might also present itself. Many information technology professionals have a full-time position at an established company while also running their own business after hours. By doing that you’ll grow your skills faster as you’ll be doing more than the usual amount of work.</dd>
+<br />
+<dt>Earn good money</dt>
+<dd>Your choice to pursue a career in information technology is influenced by a number of factors. But without a doubt, one of the most positive factors is the amount of money you’ll make. Working yourself up the ladder can enable you to earn great money. Bear in mind, as a recent graduate only setting your foot in the door now, you won’t earn as much as someone with years in the industry. However, you can expect some pretty high salaries in your future, especially if you’re specialising in a research area or programming language. Information technology professionals fall under the top ten highest paying jobs in South Africa.</dd>
+<br />
+<dt>Be in demand</dt>
+<dd>As mentioned earlier, there are many careers to follow when specialising in information technology. As technology progresses the need for information technology professionals will only increase. And the better your skill set the more in demand your expertise will be.  With jobs being so scarce, the information technology industry continues to show a promising demand trend. Majoring in information technology will expose you to a lot of opportunities and jobs. It doesn’t matter in which field of information technology you’re specialising in, there are jobs in this industry.</dd>
 
+</d1>
+</p>
 <h2 id="Third_Point_Header">Ideal Job</h2>
 <p>
 <a href="https://www.seek.com.au/job/39261970?searchrequesttoken=549b494c-39a0-494f-969b-285172b5c158&type=standard" target="_blank"> Seek.com Job AD</a> (opens in new window)
