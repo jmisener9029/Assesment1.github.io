@@ -18,8 +18,11 @@
 <p>
 Joshua Misener<br />
 Student Number: s3799261<br />
-<a href="mailto:jmisener@outlook.com">jmisener@outlook.com<a/><br />
 </p>
+<p>
+<a href="mailto:jmisener@outlook.com">jmisener@outlook.com<a/>
+</p>
+
 <p>
 Australian by birth, Higher School Certificate, speaks English, I spend a lot of time training and honing my martial arts.
 </p>
